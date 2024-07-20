@@ -1,2 +1,2 @@
-# JavaExamples
-Java examples
+# JavaSamples
+Java samples
